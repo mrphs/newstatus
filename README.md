@@ -2,8 +2,12 @@ List of local news sites blocked in Iran, their URL, date and reason behind filt
 <p dir="rtl" align="right">لیست سایت‌های خبری داخلی فیلتر شده، آدرس وبسایت، تاریخ و علت فیلترینگ.</p>
 
 
-Title | URL | Date filtered | Reason (if known) | Server Loc | Method |
-------|-----|---------------|-------------------|---------------------|--------|
-9 sobh | http://9sobh.ir | ? | Tehran Municipality Scandal | Iran | Site taken down; iframe injection to filtering page
+Title | URL | Date filtered | Reason | Server Loc | Method |
+------|-----|---------------|--------|------------|--------|
+9 sobh | http://9sobh.ir | Sep 4th? | Tehran Municipality Scandal | Iran | Taken down; iframe injection
 
 
+
+عنوان | آدرس | تاریخ فیلترینگ | علت | مکان سرور
+--------|----|-----------|-----|-----
+۹ صبح | 9sobh.ir | ۱۴ شهریور| املاک نجومی | ایران
