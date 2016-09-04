@@ -5,9 +5,11 @@ List of local news sites blocked in Iran, their URL, date and reason behind filt
 Title | URL | Date filtered | Reason | Server Loc | Method |
 ------|-----|---------------|--------|------------|--------|
 9 sobh | http://9sobh.ir | Sep 4th? | Tehran Municipality Scandal | Iran | Taken down; iframe injection
+Azad News Agency | http://www.ana.ir/ | Sep 4th? | Tehran Municipality Scandal | US | Filtered (DNS hijacking?)
 
 
 
 عنوان | آدرس | تاریخ فیلترینگ | علت | مکان سرور
 --------|----|-----------|-----|-----
 ۹ صبح | 9sobh.ir | ۱۴ شهریور| املاک نجومی | ایران
+آنا| ana.ir| ۱۴ شهریور | املاک نجومی | امریکا
