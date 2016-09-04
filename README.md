@@ -6,6 +6,8 @@ Title | URL | Date filtered | Reason | Server Loc | Method |
 ------|-----|---------------|--------|------------|--------|
 9 sobh | http://9sobh.ir | Sep 4th? | Tehran Municipality Scandal | Iran | Taken down; iframe injection
 Azad News Agency | http://www.ana.ir/ | Sep 4th? | Tehran Municipality Scandal | US | Filtered (DNS hijacking?)
+Moj News Agency | http://mojnews.com | Sep 4th? | Tehran Municipality Scandal | Iran | Unreachable from outside
+
 
 
 
