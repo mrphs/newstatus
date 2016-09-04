@@ -1,0 +1,20 @@
+from outside ir
+===============
+
+* Rebuilt URL to: 9sobh.ir/
+*   Trying 94.182.147.160...
+* Connected to 9sobh.ir (94.182.147.160) port 80 (#0)
+> GET / HTTP/1.1
+> Host: 9sobh.ir
+> User-Agent: curl/7.43.0
+> Accept: */*
+> 
+< HTTP/1.1 403 Forbidden
+< Connection:close
+< 
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1256"><title>HT1-9
+* Closing connection 0
+</title></head><body><iframe src="http://10.10.34.34?type=Invalid Site&policy=MainPolicy " style="width: 100%; height: 100%" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0"></iframe></body></html>
+
+from inside ir
+==============

@@ -1,0 +1,36 @@
+from outside ir
+===============
+
+* Rebuilt URL to: ana.ir/
+*   Trying 185.4.1.187...
+* Connected to ana.ir (185.4.1.187) port 80 (#0)
+> HEAD / HTTP/1.1
+> Host: ana.ir
+> User-Agent: curl/7.43.0
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Cache-Control: public, max-age=9
+Cache-Control: public, max-age=9
+< Content-Length: 226632
+Content-Length: 226632
+< Content-Type: text/html; charset=utf-8
+Content-Type: text/html; charset=utf-8
+< Expires: Sun, 04 Sep 2016 23:02:35 GMT
+Expires: Sun, 04 Sep 2016 23:02:35 GMT
+< Last-Modified: Sun, 04 Sep 2016 23:01:35 GMT
+Last-Modified: Sun, 04 Sep 2016 23:01:35 GMT
+< Vary: *
+Vary: *
+< Server: Microsoft-IIS/7.5
+Server: Microsoft-IIS/7.5
+< X-AspNet-Version: 4.0.30319
+X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+X-Powered-By: ASP.NET
+< Date: Sun, 04 Sep 2016 23:02:25 GMT
+Date: Sun, 04 Sep 2016 23:02:25 GMT
+
+from inside ir
+==============
